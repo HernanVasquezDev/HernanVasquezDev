@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Hernan Vasquez
 
-<!--
-**HernanVasquezDev/HernanVasquezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer especializado en Java, Spring Boot y React.
 
-Here are some ideas to get you started:
+💻 Desarrollo APIs REST, aplicaciones web y soluciones orientadas a negocio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente trabajando en:
+- EasyPOS
+- Landing page Consultorio Juridico
+- Landing Page Fundación Educativa
+
+Stack principal
+
+Backend:
+Java • Spring Boot • Node.js • NestJS • Express •PostgreSQL • MongoDB
+
+Frontend:
+React • TypeScript • TailwindCSS • Aprendiendo Angular actualemente 
+
+
+📫 Contacto
+LinkedIn: https://www.linkedin.com/in/hernan-jose-vasquez-araujo-fullstack-java-developer/
+Email: Vasquezaraujoh@gmail.com
+Portfolio: https://hernanvasquezfullstackdev.vercel.app/
