@@ -15,7 +15,7 @@ Backend:
 Java • Spring Boot • Node.js • NestJS • Express •PostgreSQL • MongoDB
 
 Frontend:
-React • TypeScript • TailwindCSS • Aprendiendo Angular actualemente 
+React • TypeScript • TailwindCSS • Aprendiendo Angular actualmente 
 
 
 📫 Contacto
